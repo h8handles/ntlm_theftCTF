@@ -15,3 +15,13 @@ After normal generation of the malicious files it will take the directory create
 _List of files Uploaded_
 
 ![image](https://github.com/h8handles/ntlm_theftCTF/assets/67421443/6017db00-5cf7-4d65-a2c5-4964d1c40ae3)
+
+
+## Issues
+
+- need a way to handle netbios name not hardcode
+- having issues working remotely but local concept works
+- very ugly :D
+
+  
+
